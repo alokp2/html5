@@ -1,0 +1,24 @@
+What are the new tags added in HTML5? 
+
+There are many new tags are added in Html5. Here are few: <embed>,<article>,<aside>,<canvas>,<audio>,<datalist>,
+<footer>, <figure>,<nav>,<video>,<section>,etc.
+
+How to embed audio and video in a webpage? 
+<audio controls> <source src="link" type="audio extension"> </audio>
+<video controls> <source src="link" type="audio extension"> </video>
+
+<embed src=""></embed>
+
+Semantic element in HTML5? 
+article, aside,details,figcaption, figure, footer, header, main, mark, nav, section
+
+
+Canvas and SVG tags 
+
+The Scalable Vector Graphics (SVG) is an XML-based image format that is used to define two-dimensional 
+vector-based graphics for the web. Unlike raster image (Ex .jpg, .gif, .png, etc.), a vector image can be scaled up 
+or down to any extent without losing the image quality.
+
+ The canvas element is only a container for graphics. 
+You must use a script to actually draw the graphics. Canvas has several 
+methods for drawing paths, boxes, circles, text, and adding images.
